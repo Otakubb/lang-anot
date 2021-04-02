@@ -16,7 +16,7 @@ Este repositório foi criado no intuito de armazenar algumas anotações sobre a
 [Otakubb](https://github.com/Otakubb)
 
 ## Licença
-Este projeto está licenciado sobre a licença (MIT)[./LICENSE].
+Este projeto está licenciado sobre a licença [MIT](./LICENSE).
 
 [Url_MD]: https://github.com/Otakubb/lang-anot/tree/main/languages/markdown
 [Url_HTML_CSS]: https://github.com/Otakubb/lang-anot/tree/main/languages/html-css
