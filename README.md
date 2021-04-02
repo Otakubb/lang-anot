@@ -11,7 +11,7 @@ Este repositório foi criado no intuito de armazenar algumas anotações sobre a
 
 ## Contribuidores
 - [Ahosall (Feh's)][Url_Profile_Ahosall]
-- [Vitu2002 (Vitu™)][Url_Profile_Vitu2002]
+- [Vitu2002 (Vitu™)][Url_Profile_Vitu]
 
 ## Autor
 [Otakubb][Url_Profile_Otakubb]
