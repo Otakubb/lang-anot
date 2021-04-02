@@ -1,8 +1,8 @@
 # Markdown Annotations
 
-## Markdown - O que é MarkDown?
+## O que é MarkDown?
 
-Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. [Wikipédia](Url_Wikipedia_MD)
+Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz. Markdown converte seu texto em HTML válido. Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. [Wikipédia][Url_Wikipedia_MD]
 
 ## Guia básico 
 
@@ -146,6 +146,8 @@ abc = null;
 ~~~
 ```
 
+Resultado:
+
 ~~~HTML
 <!--Esta é uma linha de código em HTML.-->
 
@@ -211,11 +213,11 @@ Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
 
-Fonte: [Guia básico de Markdown](Url_Pipz_MD)
+Fonte: [Guia básico de Markdown][Url_Pipz_MD]
 
 #### Dicas:
 
-- [Variáveis no Markdown](Url_Variaveis_MD)
+- [Variáveis no Markdown][Url_Variaveis_MD]
 
 <!-- Urls - Anotaçõoes - Begin -->
 [Url_Wikipedia_MD]: https://pt.wikipedia.org/wiki/Markdown
@@ -223,5 +225,5 @@ Fonte: [Guia básico de Markdown](Url_Pipz_MD)
 <!-- Urls - Anotaçõoes - End -->
 
 <!-- Urls - Dicas - Begin -->
-[Url_Variaveis_MD]: https://github.com/Otakubb/lang-anot/tree/main/languages/markdown
+[Url_Variaveis_MD]: https://github.com/Otakubb/lang-anot/tree/main/languages/markdown/variaveis.md
 <!-- Urls - Dicas - End -->
