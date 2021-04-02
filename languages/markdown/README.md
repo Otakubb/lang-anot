@@ -215,7 +215,7 @@ Valor | Valor | Valor
 
 Fonte: [Guia básico de Markdown][Url_Pipz_MD]
 
-#### Dicas:
+## Dicas:
 
 - [Variáveis no Markdown][Url_Variaveis_MD]
 
