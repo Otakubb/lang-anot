@@ -30,6 +30,7 @@ Para usar elas você coloca assim:
 [Título][url]
 [Título][url_Google-br]
 ```
+`de preferencia use-as sempre no final do código para ficar mais organizado`
 
 Aquele código ficará assim depois de ter adicionado as variáveis:
 
@@ -50,6 +51,8 @@ Aquele código ficará assim depois de ter adicionado as variáveis:
 [Url_JS]: https://github.com/Otakubb/lang-anot/tree/main/languages/javascript
 ```
 
-## Dicas:
-
+## Dicas
+[Markdown][Url_MD]
 - `Variáveis no Markdown`
+
+[Url_MD]: ./README.md
