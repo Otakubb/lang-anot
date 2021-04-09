@@ -10,7 +10,7 @@
 </ol>
 ~~~
 
-**parâmetros importantes:**
+**atributos importantes:**
 
 * Type (Marcadores)
 
@@ -40,7 +40,7 @@
 <ul>
 ~~~
 
-**Parâmetros importantes**
+**atributos importantes**
 
 *Type (Marcador)
 

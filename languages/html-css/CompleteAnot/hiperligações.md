@@ -1,5 +1,5 @@
-# Hiper ligações e Links
-## Tag e Parâmetros
+# Hiper-ligações e Links
+## Tag, atributos e Parâmetros
 ~~~HTML
 <a href="https://github.com/Otakubb">Ota's Github profile</a>
 ~~~
@@ -16,6 +16,10 @@
     3.1. _author - indica que a hiperligação reencaminhará para uma página do site atual
 
     3.2. _external - indica que reencaminhará para um site externo
+
+    3.3. _next - Próxima página
+
+    3.4. _prev - Página anterior
 
 4. com o atributo type="parâmetros abaixo"
 
