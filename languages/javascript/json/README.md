@@ -1,6 +1,6 @@
 # JSON - JavaScript Object Notation
 
-JSON é uma forma de se escrever objetos em Javascript. Pode ser visto como um formato "universal" que é muito conveniente para troca de informações entre aplicações através de diversos protocolos.
+JSON, em seu significado teórico é "Javascript Object Notation", do qual nada mais é que o formato mais leve conhecido por mim de transferência/intercâmbio de dados, ele é similar ao XML, e tem a mesma utilidade, mesmo intuito, porém é mais leve, o detalhe é que não necessariamente, apesar do nome, você tem que usa-lo com Javascript. Pode ser visto como um formato "universal" que é muito conveniente para troca de informações entre aplicações através de diversos protocolos.
 
 O JSON funciona da seguinte maneira ... 
 
