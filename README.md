@@ -7,7 +7,7 @@ Este repositório foi criado no intuito de armazenar algumas anotações sobre a
 |:---------------------------:|:------------:|:----------------:|:------:|
 |[MarkDown][Url_MD]|Ahosall(Feh's)|Em desenvolvimento|02/04/21|
 |[HTML & CSS][Url_HTML_CSS]|Otakubb|Em desenvolvimento|02/04/21|
-|[JavaScript][Url_JS]|Vitu2002|Em desenvolvimento|02/04/2021|
+|[JavaScript][Url_JS]|Vitu2002 & Ahosall(Feh's)|Em desenvolvimento|02/04/2021|
 
 ## Contribuidores
 - [Ahosall (Feh's)][Url_Profile_Ahosall]
