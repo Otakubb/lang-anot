@@ -9,10 +9,12 @@ Arquivo responsável pela navegação entre as anotações.
 * [HTML & CSS][Url_HTML_CSS]
 
 * [JavaScript][Url_JS]
+	- [JSON - JavaScript Object Notation][Url_JSON]
 
-[Url_MD]: https://github.com/Otakubb/lang-anot/tree/main/languages/markdown
-[Url_Variaveis_MD]: https://github.com/Otakubb/lang-anot/tree/main/languages/markdown/variaveis.md
+[Url_MD]: ./languages/markdown/README.md
+[Url_Variaveis_MD]: ./languages/markdown/variaveis.md
 
-[Url_HTML_CSS]: https://github.com/Otakubb/lang-anot/tree/main/languages/html-css
+[Url_HTML_CSS]: ./languages/html-css/README.md
 
-[Url_JS]: https://github.com/Otakubb/lang-anot/tree/main/languages/javascript
+[Url_JS]: ./languages/javascript/README.md
+[Url_JSON]: ./languages/javascript/json/README.md
