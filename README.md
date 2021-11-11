@@ -8,10 +8,12 @@ Este repositório foi criado no intuito de armazenar algumas anotações sobre a
 |[MarkDown][Url_MD]|Ahosall(Feh's)|Em desenvolvimento|02/04/21|
 |[HTML & CSS][Url_HTML_CSS]|Otakubb & Hartye|Em desenvolvimento|02/04/21|
 |[JavaScript][Url_JS]|Vitu2002 & Ahosall(Feh's)|Em desenvolvimento|02/04/2021|
+|[C][Url_C]|Hartye & Otakubb|Em desenvolvimento|11/11/21|
 
 ## Contribuidores
 - [Ahosall (Feh's)][Url_Profile_Ahosall]
 - [Vitu2002 (Vitu™)][Url_Profile_Vitu]
+- [Hartye ][Url_Profile_Hartye]
 
 ## Autor
 [Otakubb][Url_Profile_Otakubb]
@@ -23,6 +25,7 @@ Este projeto está licenciado sobre a licença [MIT][Url_MIT].
 [Url_Profile_Ahosall]: https://github.com/Ahosall
 [Url_Profile_Otakubb]: https://github.com/Otakubb
 [Url_Profile_Vitu]: https://github.com/vitu2002
+[Url_Profile_Hartye]: https://github.com/Hartye
 
 <!-- Urls - Profiles - End -->
 
@@ -30,5 +33,6 @@ Este projeto está licenciado sobre a licença [MIT][Url_MIT].
 [Url_MD]: ./languages/markdown
 [Url_HTML_CSS]: ./languages/html-css
 [Url_JS]: ./languages/javascript
+[Url_C]: ./languages/Canot
 [Url_MIT]: ./LICENSE
 <!-- Urls - Files - End -->
