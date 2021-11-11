@@ -30,5 +30,32 @@
     * Notas 
         * um por linha
         * Nome em maiusculas, não leva ";" no final
-3. Noção de variavéis
-    * servem para 
+3. Noção de variáveis
+    * correspondem a um espaço em memória 
+        * é onde são armazenados os valores manipulados pelo programa
+    * são definidas por um identificador (nome) e um tipo de dados
+        * o tipo de dados define o alcance da variavel
+    * em rigor, em C só existem dois tipos de dados
+        * números inteiros
+        * números reais
+    * embora seja guardado com número inteiro, é comum considerar o tipo de dados caractér
+    * Tipos de variavéis 
+        * Tipos essenciais
+            * Int, número inteiro
+            * float, número Real
+            * char, caratér
+        * Existem vários subtipos baseados nos anteriores, que alteram o sinal e o alcance
+            * signed or unsigned
+            * short, long (não se usa), long long
+            * double (12 casas de precisão)
+        * variáveis globais
+            * Sintaxe de declaração
+                ~~~C
+                Tipo valor;
+                //exemplos
+                int n1,n2,n3 = 3;
+                char yo = 'Hello, World!!!';//inicialização com valor diferente
+                ~~~
+            * as variáveis globais são inicializadas a 0, ou seja, se criarmos uma variavel sem lhe colocarmos o valor ela guarda 0.
+            * inicialização com valores diferentes exemplificado no bloco de código escrito acima.
+4. Programa principal
