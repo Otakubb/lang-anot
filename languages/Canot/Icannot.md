@@ -92,7 +92,7 @@
     * sequências de escape começão com "/"
         * `\n` : muda de linha
         * `\t` : corresponde ao tab
-        * `\\` : escreve uma "\"
+        * `\\` : escreve uma "\\"
         * `\"` : escreve uma aspas (")
     * as especificações de tipo de dados são necessários para escrever valores (de variáveis ou outros).
         * tipos mais importantes
