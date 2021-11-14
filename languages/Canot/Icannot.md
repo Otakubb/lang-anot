@@ -89,7 +89,7 @@
     * as formatações podem ser:
         * sequências de escape.
         * especificações do tipo de dados.
-    * sequências de escape começão com "/"
+    * sequências de escape começão com "\\"
         * `\n` : muda de linha
         * `\t` : corresponde ao tab
         * `\\` : escreve uma "\\"
