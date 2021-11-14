@@ -43,7 +43,7 @@
         * Tipos essenciais
             * Int, número inteiro
             * float, número Real
-            * char, caratér
+            * char, caratére
         * Existem vários subtipos baseados nos anteriores, que alteram o sinal e o alcance
             * signed or unsigned
             * short, long (não se usa), long long
@@ -60,7 +60,7 @@
             * inicialização com valores diferentes exemplificado no bloco de código escrito acima.
 4. Programa principal
     * é onde a execução do programa começa.
-    * é constituido por uma função chamada main() e que deve devolver o valor 0 ao S.O.
+    * é constituido por uma função chamada `main()` e que deve devolver o valor 0 ao S.O.
         * em C, as funções podem devolver valores ao sistema que os chama.
         * por razões históricas, a função main devolve 0, que indica que executou tudo sem problemas.
     * *Sintaxe:*
@@ -72,11 +72,11 @@
         }
         ~~~
     * comentários
-        * 1 linha: "//"
-        * mútliplas linhas: "/* */"
+        * 1 linha: `//`
+        * mútliplas linhas: `/* */`
 5. Instruções de Output
-    * a formaessencial de output em C é usar a lib function " printf ", atenção que a linguagem C é case-sensitive.
-        * é necessario o include <stdio.h>
+    * a formaessencial de output em C é usar a lib function `printf`, atenção que a linguagem C é case-sensitive.
+        * é necessario o include `<stdio.h>`
     * a sintaxe é complexa mas resume-se a:
         ~~~C
         printf("texto/informacao", listaVars);
@@ -102,4 +102,45 @@
             * `%f` : float
             * `%n` : short
             * `%u` : unsigned
-    
+    * A lista de Vars é opcional
+        * para caso de não serem necessários valores
+    * Se existir, os valores são escritos nas strings das especificações de tipo, pela ordem  que estão listadas
+6. Instruções de input
+    * A forma essencial de input é usar a library function `scanf_s`
+        * é necessário o include `<stdio.h>`
+    * A sintaxe é complexa mas resume-se a:
+        ~~~C
+            scanf_s("texto/especificações", listaVars);
+            //Exemplo
+            scanf_s("%d-%d-%d", &dia, &mes, &ano);
+        ~~~
+    * São lidas do teclado os valores introduzidos
+        * Se existir, o user tem que respeitar o formato
+    * A função devolve a quantidade de valores efetivamente lidos
+        * é usada para validar se o formato de o formato de input foi respeitado
+    * As especificações de tipo de dados são exatamente as mesmas de `printf`
+    * Os valores são armazenados nas variavéis pela ordem que estão listados
+    * Atenção ao uso do `&` antes de cada variavel nas lista de variáveis
+7. Instrução de afetação
+    * equivale a uma "<-" nos fluxogramas
+        * variável = expressão
+    * A expressão é qualquer coisa válida em C
+        * cálculos, valores devolvidos por funções
+        * O resultado da expressão deve ser do mesmo tipo da variavel
+        * O resultado fiica armazenado na var
+    * Operadores aritméticos
+        * existem 5 operadores que usam 2 operandos
+            * "+"
+            * "-"
+            * "*"
+            * "/"
+            * "%"
+        * O resultado é sempre com o tipo de maior alcance
+            * int/float = float
+        * O operador "/" tem duas formas de executar
+            * se ambos os operandos forem inteiro, é uma divisão inteira
+            * se um deles for real, é uma divisão real
+        * Os operandos de "%" têm que ser valores inteiros
+            * O resto de uma divisão real é sempre 0
+
+*Em desenvolvimento . . .*
